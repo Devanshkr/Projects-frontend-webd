@@ -1,4 +1,4 @@
-Hey I am an intermediate front end developer and below are the projects I have created so far.
+Hey, I am an intermediate front end web developer and below are the projects I have created so far.
 
 1) I created a sample webpage using html and css - https://spotifyfrontenddev.netlify.app/
 source code is available in default branch.
