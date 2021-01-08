@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.carousel-container{
+  top: 50px;
+  width: 60%;
+  margin:  auto;
+  border: 4px solid black;
+  border-radius: 10px;
+
+  position: relative;
+  overflow:hidden;
+
+}
+
+.carousel-slide{
+  width: 100%;
+  height: 500px;
+  display: flex;
+}
+
+img {
+  width: 100%;
+  height: 500px;
+  object-fit:cover;
+}
+
+#prevBtn{
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  left: 5%;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+#nextBtn{
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  right: 5%;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
