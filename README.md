@@ -7,5 +7,5 @@ source code is available in master(default) branch.
 source code can be found in "gh-pages" branch in "site" folder.
 
 3) I created a image carousel, sliding infinitely in a loop using vanilla javascript - https://hardcore-edison-4c7608.netlify.app/
-source code present in folder - proj2 vanilla js.
+source code present in folder - proj2 vanilla js. (Refresh the webpage once or twice if it does not work properly)
  
